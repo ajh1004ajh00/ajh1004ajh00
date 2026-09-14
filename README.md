@@ -24,12 +24,13 @@
 
 | 프로젝트 | 제가 맡은 일 |
 | :--- | :--- |
+| **[한글메이트 · AI 문서 공동 편집](https://github.com/ajh1004ajh00/hwpx-desktop-plugin)** | HWP/HWPX 편집기와 AI 도구 연동, 문서·선택 영역 분석과 편집 흐름 구현 · 개발 중 |
 | **BIRD · VFX 객체·모션 트래킹** | AI 파이프라인 구축, 가림 이후 인물 ID 연결과 3D 모션 복원 성능 개선 |
 | **AI 바우처 · 다국어 자동 더빙** | 기술 PM, 테스트 데이터·외부 기관이 재현할 수 있는 평가 환경 구성, 협업 조율·최종 발표 및 결과 보고 |
 | **서울형 R&D · 다국어 자동 더빙** | GPU 메모리 문제 개선, Streamlit 기반 결과 검토·편집·재생성 흐름 구현 |
 | **FOWOCO · HR 서비스** | 3인 AI 팀의 Supervisor 기반 멀티에이전트 설계, OCR 개발·파트 간 연동 조율, 데모 시나리오 설계 |
 | **[Metamong · 음성 기반 아바타](https://github.com/chanrhan/Metamong)** | AI 파이프라인 설계, KcELECTRA 학습·W&B 실험 관리, SBERT 문장 유사도, ONNX·Unity Sentis 추론 연동 |
-| **[Python 웹 데이터 수집](https://github.com/ajh1004ajh00/Crawling)** | Selenium·BeautifulSoup·Pandas 기반 웹 수집·정제·데이터셋 구성 |
+| **Python 웹 데이터 수집** | Selenium·BeautifulSoup·Pandas 기반 웹 수집·정제·데이터셋 구성 |
 
 Metamong의 모션 연결은 동료와 함께 진행했습니다. AI에서는 발화 상황에 부적절한 모션을 제외하는 데 초점을 맞췄습니다.
 
@@ -44,13 +45,13 @@ Metamong의 모션 연결은 동료와 함께 진행했습니다. AI에서는 �
 
 ### Experience
 
-**스팩스페이스 · AI 개발 현장실습** &nbsp; 2025.06–2025.12  
+**스팩스페이스 · AI 개발 현장실습** &nbsp; 2025.06–2025.12<br>
 영상·음성 AI 파이프라인 개발, 성능평가 환경 구축 및 기술 PM, 백엔드 안정성 개선
 
-**한국기술교육대학교 · 컴퓨터공학부** &nbsp; 2027.02 졸업 예정  
+**한국기술교육대학교 · 컴퓨터공학부** &nbsp; 2027.02 졸업 예정<br>
 DICE-Lab 학부연구생 · 음성 기반 아바타 AI 개발
 
-**KT AIVLE School** &nbsp; 2026.04–2026.08  
+**KT AIVLE School** &nbsp; 2026.04–2026.08<br>
 8인 팀 HR 서비스 개발 · AI 팀 3인
 
 ---
