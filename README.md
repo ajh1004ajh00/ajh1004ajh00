@@ -28,11 +28,9 @@
 | **BIRD · VFX 객체·모션 트래킹** | AI 파이프라인 구축, 가림 이후 인물 ID 연결과 3D 모션 복원 성능 개선 |
 | **AI 바우처 · 다국어 자동 더빙** | 기술 PM, 테스트 데이터·외부 기관이 재현할 수 있는 평가 환경 구성, 협업 조율·최종 발표 및 결과 보고 |
 | **서울형 R&D · 다국어 자동 더빙** | GPU 메모리 문제 개선, Streamlit 기반 결과 검토·편집·재생성 흐름 구현 |
-| **FOWOCO · HR 서비스** | 3인 AI 팀의 Supervisor 기반 멀티에이전트 설계, OCR 개발·파트 간 연동 조율, 데모 시나리오 설계 |
+| **[FOWOCO · HR 서비스](https://github.com/fowoco)** | 3인 [AI 팀](https://github.com/fowoco/ai)의 Supervisor 기반 멀티에이전트 설계, OCR 개발·파트 간 연동 조율, 데모 시나리오 설계 |
 | **[Metamong · 음성 기반 아바타](https://github.com/chanrhan/Metamong)** | AI 파이프라인 설계, KcELECTRA 학습·W&B 실험 관리, SBERT 문장 유사도, ONNX·Unity Sentis 추론 연동 |
-| **Python 웹 데이터 수집** | Selenium·BeautifulSoup·Pandas 기반 웹 수집·정제·데이터셋 구성 |
-
-Metamong의 모션 연결은 동료와 함께 진행했습니다. AI에서는 발화 상황에 부적절한 모션을 제외하는 데 초점을 맞췄습니다.
+| **[Python 웹 데이터 수집](https://github.com/ajh1004ajh00/Crawling)** | Selenium·BeautifulSoup·Pandas 기반 웹 수집·정제·데이터셋 구성 |
 
 ### Toolkit
 
@@ -56,4 +54,4 @@ DICE-Lab 학부연구생 · 음성 기반 아바타 AI 개발
 
 ---
 
-프로젝트별 문제 해결 과정과 상세 근거는 **[포트폴리오](https://app.notion.com/p/3d6e20d43d6280559630c0157b9d1495)**에서 확인할 수 있습니다.
+프로젝트별 문제 해결 과정과 상세 근거는 [포트폴리오](https://app.notion.com/p/3d6e20d43d6280559630c0157b9d1495)에서 확인할 수 있습니다.
