@@ -7,7 +7,7 @@
 모델 개발부터 서비스 연동까지 구현하고,<br>
 실제 사용 과정에서 발생하는 문제를 해결하며 성능과 안정성을 개선해 왔습니다.
 
-[Portfolio](https://app.notion.com/p/3d6e20d43d6280559630c0157b9d1495) · [Email](mailto:ajhajh503@gmail.com)
+[Email](mailto:ajhajh503@gmail.com) · Phone: 010-9494-4570
 
 </div>
 
@@ -52,7 +52,3 @@ DICE-Lab 학부연구생 · 음성 기반 아바타 AI 개발
 
 **KT AIVLE School** &nbsp; 2026.04–2026.08<br>
 8인 팀 HR 서비스 개발 · AI 팀 3인
-
----
-
-프로젝트별 문제 해결 과정과 상세 근거는 [포트폴리오](https://app.notion.com/p/3d6e20d43d6280559630c0157b9d1495)에서 확인할 수 있습니다.
