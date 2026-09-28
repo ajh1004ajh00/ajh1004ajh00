@@ -50,5 +50,5 @@
 **한국기술교육대학교 · 컴퓨터공학부** &nbsp; 2027.02 졸업 예정<br>
 DICE-Lab 학부연구생 · 음성 기반 아바타 AI 개발
 
-**KT AIVLE School** &nbsp; 2026.04–2026.08<br>
+**KT AIVLE School** &nbsp; 2026.03–2026.09<br>
 8인 팀 HR 서비스 개발 · AI 팀 3인
